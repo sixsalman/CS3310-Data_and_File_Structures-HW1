@@ -9,10 +9,9 @@ import java.io.IOException;
 
 /**
  * This program reads details of items (separated by commas) from an input file, stores the items in a list and then
- * in bags of capacity 25, prints contents of bags (does so for multiple quantities of bags), searches them for
- * random items (linearly) - (merge) Sorts items within bags, then (multi)merges bags into a sorted list,
- * also (merge) sorts the original list, compares times for both sorts - Searches (sorted) bags again (binary) and
- * compares times for both searches.
+ * in bags of capacity 25, searches them for random items (linearly) - (merge) Sorts items within bags, then (multi)merges 
+ * bags into a sorted list, also (merge) sorts the original list, compares times for both sorts - Searches (sorted) bags 
+ * again (binary) and compares times for both searches.
  *
  * @author M. Salman Khan
  */
