@@ -19,7 +19,7 @@ import java.io.IOException;
 public class Main {
 
     /**
-     * Main method takes inputs, calls other methods to accomplish certain tasks and prints outputs to console
+     * Main method takes inputs, calls other methods to accomplish certain tasks and outputs
      * @param args not used
      * @throws IOException can be thrown if input file is missing in directory
      */
